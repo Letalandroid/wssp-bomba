@@ -4,6 +4,12 @@ Este código está hecho con el fin de usarse para propósitos no maliciosos. Di
 \
 &nbsp;
 
+## Instalación:
+
+```
+> git clone https://github.com/Letalandroid/wssp-bomba.git
+```
+
 ## Librerías a usar:
 
 ```
