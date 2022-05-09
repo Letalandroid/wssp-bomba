@@ -14,7 +14,6 @@ Time
 
 ## Manual de uso:
 ---
-&nbsp;
 
 ### Windows:
 
