@@ -16,7 +16,6 @@ Este código está hecho con el fin de usarse para propósitos no maliciosos. Di
 PyAutogui
 Time
 ```
-&nbsp;
 
 ## Manual de uso:
 
