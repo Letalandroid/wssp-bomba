@@ -10,6 +10,13 @@ Este código está hecho con el fin de usarse para propósitos no maliciosos. Di
 > git clone https://github.com/Letalandroid/wssp-bomba.git
 ```
 
+## Inicia con el comando:
+
+```
+>>> py app.py
+```
+&nbsp;
+
 ## Librerías a usar:
 
 ```
@@ -42,14 +49,6 @@ Para el test se usa un bloc de notas pero también se puede usar en el WhatsApp 
 Un ejemplo en WhatsApp Web enviando 150 mensajes con el mensaje de "mano".
 \
 &nbsp;
-
-## Inicia con el comando:
-
-```
->>> py app.py
-```
-&nbsp;
+!["Cap6"](./img/github/6.png)
 
 Y diviértete con usándolo :smile:
-
-!["Cap6"](./img/github/6.png)
