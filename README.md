@@ -5,7 +5,7 @@ Este código está hecho con el fin de usarse para propósitos no maliciosos. Di
 &nbsp;
 
 ## Librerías a usar:
----
+
 ```
 PyAutogui
 Time
