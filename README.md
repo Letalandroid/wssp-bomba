@@ -13,7 +13,7 @@ Time
 &nbsp;
 
 ## Manual de uso:
----
+
 
 ### Windows:
 
